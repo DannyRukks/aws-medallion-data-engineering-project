@@ -74,6 +74,7 @@ Fact Table
 
 #### Incremental Loading Strategy
 Instead of rebuilding the entire dataset during every execution, this project processes only new records.
+
 Technique used: 
 - Glue Job Bookmarks
 - Left Anti Join
