@@ -1,0 +1,101 @@
+S/No,StoreID,StoreName,City,Country,Region
+1,S001,Store 1,Johannesburg,South Africa,Southern Africa
+2,S002,Store 2,Kumasi,Ghana,West Africa
+3,S003,Store 3,Ibadan,Nigeria,West Africa
+4,S004,Store 4,London,UK,Europe
+5,S005,Store 5,Kumasi,Ghana,West Africa
+6,S006,Store 6,Johannesburg,South Africa,Southern Africa
+7,S007,Store 7,Kumasi,Ghana,West Africa
+8,S008,Store 8,Kumasi,Ghana,West Africa
+9,S009,Store 9,Accra,Ghana,West Africa
+10,S010,Store 10,Johannesburg,South Africa,Southern Africa
+11,S011,Store 11,Johannesburg,South Africa,Southern Africa
+12,S012,Store 12,Manchester,UK,Europe
+13,S013,Store 13,Nairobi,Kenya,East Africa
+14,S014,Store 14,Nairobi,Kenya,East Africa
+15,S015,Store 15,Lagos,Nigeria,West Africa
+16,S016,Store 16,Kumasi,Ghana,West Africa
+17,S017,Store 17,Nairobi,Kenya,East Africa
+18,S018,Store 18,Manchester,UK,Europe
+19,S019,Store 19,Nairobi,Kenya,East Africa
+20,S020,Store 20,Lagos,Nigeria,West Africa
+21,S021,Store 21,Ibadan,Nigeria,West Africa
+22,S022,Store 22,Johannesburg,South Africa,Southern Africa
+23,S023,Store 23,Abuja,Nigeria,West Africa
+24,S024,Store 24,Johannesburg,South Africa,Southern Africa
+25,S025,Store 25,Kumasi,Ghana,West Africa
+26,S026,Store 26,Lagos,Nigeria,West Africa
+27,S027,Store 27,Johannesburg,South Africa,Southern Africa
+28,S028,Store 28,Manchester,UK,Europe
+29,S029,Store 29,Abuja,Nigeria,West Africa
+30,S030,Store 30,Lagos,Nigeria,West Africa
+31,S031,Store 31,Ibadan,Nigeria,West Africa
+32,S032,Store 32,Johannesburg,South Africa,Southern Africa
+33,S033,Store 33,Johannesburg,South Africa,Southern Africa
+34,S034,Store 34,Manchester,UK,Europe
+35,S035,Store 35,Nairobi,Kenya,East Africa
+36,S036,Store 36,Ibadan,Nigeria,West Africa
+37,S037,Store 37,Nairobi,Kenya,East Africa
+38,S038,Store 38,Kumasi,Ghana,West Africa
+39,S039,Store 39,London,UK,Europe
+40,S040,Store 40,Ibadan,Nigeria,West Africa
+41,S041,Store 41,London,UK,Europe
+42,S042,Store 42,Ibadan,Nigeria,West Africa
+43,S043,Store 43,London,UK,Europe
+44,S044,Store 44,Johannesburg,South Africa,Southern Africa
+45,S045,Store 45,Kumasi,Ghana,West Africa
+46,S046,Store 46,Nairobi,Kenya,East Africa
+47,S047,Store 47,Nairobi,Kenya,East Africa
+48,S048,Store 48,Nairobi,Kenya,East Africa
+49,S049,Store 49,London,UK,Europe
+50,S050,Store 50,Lagos,Nigeria,West Africa
+51,S051,Store 51,London,UK,Europe
+52,S052,Store 52,Lagos,Nigeria,West Africa
+53,S053,Store 53,Nairobi,Kenya,East Africa
+54,S054,Store 54,Nairobi,Kenya,East Africa
+55,S055,Store 55,London,UK,Europe
+56,S056,Store 56,Manchester,UK,Europe
+57,S057,Store 57,Johannesburg,South Africa,Southern Africa
+58,S058,Store 58,Johannesburg,South Africa,Southern Africa
+59,S059,Store 59,Kumasi,Ghana,West Africa
+60,S060,Store 60,Nairobi,Kenya,East Africa
+61,S061,Store 61,Ibadan,Nigeria,West Africa
+62,S062,Store 62,Manchester,UK,Europe
+63,S063,Store 63,Johannesburg,South Africa,Southern Africa
+64,S064,Store 64,Nairobi,Kenya,East Africa
+65,S065,Store 65,Accra,Ghana,West Africa
+66,S066,Store 66,Abuja,Nigeria,West Africa
+67,S067,Store 67,Ibadan,Nigeria,West Africa
+68,S068,Store 68,London,UK,Europe
+69,S069,Store 69,Manchester,UK,Europe
+70,S070,Store 70,London,UK,Europe
+71,S071,Store 71,Ibadan,Nigeria,West Africa
+72,S072,Store 72,Ibadan,Nigeria,West Africa
+73,S073,Store 73,Lagos,Nigeria,West Africa
+74,S074,Store 74,Johannesburg,South Africa,Southern Africa
+75,S075,Store 75,Kumasi,Ghana,West Africa
+76,S076,Store 76,Johannesburg,South Africa,Southern Africa
+77,S077,Store 77,Nairobi,Kenya,East Africa
+78,S078,Store 78,Lagos,Nigeria,West Africa
+79,S079,Store 79,Kumasi,Ghana,West Africa
+80,S080,Store 80,Nairobi,Kenya,East Africa
+81,S081,Store 81,Accra,Ghana,West Africa
+82,S082,Store 82,Manchester,UK,Europe
+83,S083,Store 83,Nairobi,Kenya,East Africa
+84,S084,Store 84,Johannesburg,South Africa,Southern Africa
+85,S085,Store 85,Manchester,UK,Europe
+86,S086,Store 86,Johannesburg,South Africa,Southern Africa
+87,S087,Store 87,Kumasi,Ghana,West Africa
+88,S088,Store 88,Nairobi,Kenya,East Africa
+89,S089,Store 89,Accra,Ghana,West Africa
+90,S090,Store 90,Johannesburg,South Africa,Southern Africa
+91,S091,Store 91,Johannesburg,South Africa,Southern Africa
+92,S092,Store 92,Johannesburg,South Africa,Southern Africa
+93,S093,Store 93,Manchester,UK,Europe
+94,S094,Store 94,Kumasi,Ghana,West Africa
+95,S095,Store 95,Accra,Ghana,West Africa
+96,S096,Store 96,Johannesburg,South Africa,Southern Africa
+97,S097,Store 97,Johannesburg,South Africa,Southern Africa
+98,S098,Store 98,Johannesburg,South Africa,Southern Africa
+99,S099,Store 99,London,UK,Europe
+100,S100,Store 100,London,UK,Europe
