@@ -7,6 +7,7 @@ The pipeline automates data ingestion, cleansing, transformation, cataloging, an
 
 ### Architecture
 ![Snowflake ELT Architecture](architecture/architectural_diagram.jpg)
+
 The pipeline consists of:
 - Amazon S3
 - AWS Glue Crawlers
