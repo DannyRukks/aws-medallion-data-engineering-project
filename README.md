@@ -16,3 +16,18 @@ The pipeline consists of:
 - AWS Glue Data Catalog
 - Amazon Redshift Spectrum
 - Microsoft Power BI
+
+### Workflow
+![Snowflake ELT Architecture](workflow/workflows.jpg)
+
+### Technologies Used
+| Service	| Purpose |
+|---------|---------|
+| Amazon S3 | Data Lake |
+| AWS Glue	| ETL Processing |
+| PySpark	| Data Transformation |
+| AWS Glue Crawlers |	Metadata Discovery |
+| Glue Data Catalog	| Central Metadata Repository |
+| AWS Glue Workflow |	Workflow Orchestration |
+| Amazon Redshift Spectrum | SQL Analytics |
+| Power BI	| Dashboard & Reporting  |
