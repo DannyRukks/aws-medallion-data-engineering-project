@@ -31,3 +31,66 @@ The pipeline consists of:
 | AWS Glue Workflow |	Workflow Orchestration |
 | Amazon Redshift Spectrum | SQL Analytics |
 | Power BI	| Dashboard & Reporting  |
+
+### Project Objectives
+- Build an end-to-end ETL pipeline
+- Implement Medallion Architecture
+- Process only new records
+- Reduce processing cost
+- Automate the pipeline
+- Build a dimensional model
+- Produce analytics-ready datasets
+
+#### Bronze Layer
+Purpose: Store raw source files without modification.
+Input
+- Sales
+- Customers
+- Products
+- Stores
+Technology: Amazon S3
+
+#### Silver Layer
+Purpose: Clean and standardize raw data.
+Transformations
+- Trim whitespace
+- Remove duplicates
+- Validate business keys
+- Handle missing values
+- Convert dates
+- Standardize categories
+- Add partition columns
+- Incremental loading using Left Anti Join
+Technology: AWS Glue, PySpark
+
+#### Gold Layer
+Purpose: Build a Star Schema optimized for analytics.
+Dimension Tables
+- DimCustomer
+- DimProduct
+- DimStore
+Fact Table
+- FactSales
+
+#### Incremental Loading Strategy
+Instead of rebuilding the entire dataset during every execution, this project processes only new records.
+Technique used: 
+- Glue Job Bookmarks
+- Left Anti Join
+Benefits
+- Faster execution
+- Lower AWS costs
+- No duplicate records
+- Production-ready approach
+
+#### Dashboard
+![Snowflake ELT Architecture](dashboard/dashboard.jpg)
+
+
+### Business Value
+This project demonstrates how modern cloud-native data engineering solutions can:
+- automate data ingestion,
+- improve data quality,
+- reduce infrastructure costs,
+- support scalable analytics
+- provide reliable datasets for business intelligence.
